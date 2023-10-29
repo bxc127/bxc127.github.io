@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>孤独后花园</title>
+        <subtitle>劝君莫惜金缕衣，劝君须惜少年时。 有花堪折直须折，莫待无花空折枝</subtitle>
+        <icon>https://bxc127.github.io/assets/favicon.ico</icon>
+        <link>https://bxc127.github.io</link>
+        <author>
+          <name>白小魑</name>
+        </author>
+        <description>学习笔记 &amp; 年度总结</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 29 Oct 2023 20:47:56 +0800</pubDate>
+        <lastBuildDate>Sun, 29 Oct 2023 20:47:56 +0800</lastBuildDate>
+        <category term="web安全" />
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Exploit/Python%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</guid>
+            <title>Python反序列化</title>
+            <link>https://bxc127.github.io/2023/10/29/Exploit/Python%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</link>
+            <category term="漏洞利用" scheme="https://bxc127.github.io/categories/Exploit/" />
+            <pubDate>Sun, 29 Oct 2023 20:47:56 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Exploit/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</guid>
+            <title>Java反序列化</title>
+            <link>https://bxc127.github.io/2023/10/29/Exploit/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</link>
+            <category term="漏洞利用" scheme="https://bxc127.github.io/categories/Exploit/" />
+            <pubDate>Sun, 29 Oct 2023 20:47:06 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Exploit/PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</guid>
+            <title>PHP反序列化</title>
+            <link>https://bxc127.github.io/2023/10/29/Exploit/PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</link>
+            <category term="漏洞利用" scheme="https://bxc127.github.io/categories/Exploit/" />
+            <pubDate>Sun, 29 Oct 2023 20:46:43 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Exploit/%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB/</guid>
+            <title>文件包含</title>
+            <link>https://bxc127.github.io/2023/10/29/Exploit/%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB/</link>
+            <category term="漏洞利用" scheme="https://bxc127.github.io/categories/Exploit/" />
+            <pubDate>Sun, 29 Oct 2023 20:46:19 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Exploit/CSRF/</guid>
+            <title>CSRF</title>
+            <link>https://bxc127.github.io/2023/10/29/Exploit/CSRF/</link>
+            <category term="漏洞利用" scheme="https://bxc127.github.io/categories/Exploit/" />
+            <pubDate>Sun, 29 Oct 2023 20:45:37 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Exploit/xss%E8%B7%A8%E7%AB%99/</guid>
+            <title>xss跨站</title>
+            <link>https://bxc127.github.io/2023/10/29/Exploit/xss%E8%B7%A8%E7%AB%99/</link>
+            <category term="漏洞利用" scheme="https://bxc127.github.io/categories/Exploit/" />
+            <pubDate>Sun, 29 Oct 2023 20:45:22 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Exploit/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</guid>
+            <title>文件上传</title>
+            <link>https://bxc127.github.io/2023/10/29/Exploit/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</link>
+            <category term="漏洞利用" scheme="https://bxc127.github.io/categories/Exploit/" />
+            <pubDate>Sun, 29 Oct 2023 20:45:04 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/SRC/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E6%80%9D%E8%B7%AF/</guid>
+            <title>漏洞挖掘思路</title>
+            <link>https://bxc127.github.io/2023/10/29/SRC/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E6%80%9D%E8%B7%AF/</link>
+            <category term="漏洞挖掘" scheme="https://bxc127.github.io/categories/SRC/" />
+            <pubDate>Sun, 29 Oct 2023 20:43:29 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Summary/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid>
+            <title>2023年度总结</title>
+            <link>https://bxc127.github.io/2023/10/29/Summary/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
+            <category term="年度总结" scheme="https://bxc127.github.io/categories/Summary/" />
+            <pubDate>Sun, 29 Oct 2023 20:42:50 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Exploit/sql%E6%B3%A8%E5%85%A5/</guid>
+            <title>sql注入</title>
+            <link>https://bxc127.github.io/2023/10/29/Exploit/sql%E6%B3%A8%E5%85%A5/</link>
+            <category term="漏洞利用" scheme="https://bxc127.github.io/categories/Exploit/" />
+            <pubDate>Sun, 29 Oct 2023 20:40:48 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Basic/python%E5%9F%BA%E7%A1%80/</guid>
+            <title>python基础</title>
+            <link>https://bxc127.github.io/2023/10/29/Basic/python%E5%9F%BA%E7%A1%80/</link>
+            <category term="前置基础" scheme="https://bxc127.github.io/categories/Basic/" />
+            <pubDate>Sun, 29 Oct 2023 20:40:26 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Basic/java%E5%9F%BA%E7%A1%80/</guid>
+            <title>java基础</title>
+            <link>https://bxc127.github.io/2023/10/29/Basic/java%E5%9F%BA%E7%A1%80/</link>
+            <category term="前置基础" scheme="https://bxc127.github.io/categories/Basic/" />
+            <pubDate>Sun, 29 Oct 2023 20:39:59 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Basic/mysql%E5%9F%BA%E7%A1%80/</guid>
+            <title>mysql基础</title>
+            <link>https://bxc127.github.io/2023/10/29/Basic/mysql%E5%9F%BA%E7%A1%80/</link>
+            <category term="前置基础" scheme="https://bxc127.github.io/categories/Basic/" />
+            <pubDate>Sun, 29 Oct 2023 20:39:44 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/%E6%97%B6%E8%BF%90%E8%B5%8B/</guid>
+            <title>时运赋</title>
+            <link>https://bxc127.github.io/2023/10/29/%E6%97%B6%E8%BF%90%E8%B5%8B/</link>
+            <pubDate>Sun, 29 Oct 2023 19:44:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;时也，命也，运也！天有不测风云，人有旦夕祸福。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;蜈蚣百足，行不及蛇。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;灵鸡有翼，飞不如鸭。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马有千里之程，无人不能自往。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;人有凌云之志，非运不能腾达。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文章盖世，孔子尚困于陈邦；武略超群，太公垂钓于渭水。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;盗跖年长，不是善良之辈；颜回命短，实非凶恶之徒。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;尧、舜至圣，却生不肖之子；瞽叟顽呆，反生大圣之儿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;张良原是布衣，萧何称谓县吏。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;晏子身无五尺，封为齐国首相； 孔明卧居草卢，能作蜀汉军师。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;韩信无缚鸡之力，封为汉朝大将； 冯唐有安邦之志，到老半官无封。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;李广有射虎之威，终身不第。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;楚王虽雄，难免乌江自刎；汉王虽弱，却有江山万里。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;满腹经纶，白发不第。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;才疏学浅，少年登科。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;有先富而后贫，有先贫而后富。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;蛟龙未遇，潜身于鱼虾之间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;君子失时，拱手于小人之下。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;天不得时，日月无光。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;地不得时，草木不长。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;水不得时，风浪不平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;人不得时，利运不通。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;昔时也，余在洛阳，日投僧院，夜宿寒窑；布衣不能遮其体，淡粥不能充其飢；上人憎，下人厌，皆言：“余之贱也！” 余曰：“非吾贱也！乃时也，运也，命也！”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;余及第登科，官至极品，位列三公；有挞百僚之杖，有斩鄙吝之剑；出则壮士执鞭，入则佳人捧袂；思衣则有绫罗锦缎，思食则有山珍海味；上人宠，下人拥，人皆仰慕，言：“余之贵也！” 余曰：“非吾贵也！乃时也，运也，命也！”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;盖，人生在世，富贵不能移，贫贱不可欺；此乃天地循环，终而复始者也！&lt;/strong&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://bxc127.github.io/2023/10/29/Basic/Linux%E5%9F%BA%E7%A1%80/</guid>
+            <title>Linux基础</title>
+            <link>https://bxc127.github.io/2023/10/29/Basic/Linux%E5%9F%BA%E7%A1%80/</link>
+            <category term="前置基础" scheme="https://bxc127.github.io/categories/Basic/" />
+            <pubDate>Sun, 29 Oct 2023 19:33:02 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+    </channel>
+</rss>
